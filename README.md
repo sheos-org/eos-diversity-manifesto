@@ -18,7 +18,8 @@ Diversity is not an end in itself, but a powerful means to collectively improve 
 
 -----
 
-##### Learn more about the shEOS Diversity Campaign and signing the EOS Diversity Manifesto: www.diverseeos.com(https://www.diverseos.com)
+##### Learn more about the shEOS Diversity Campaign and signing the EOS Diversity Manifesto: 
+www.diverseeos.com(https://www.diverseos.com)
 
 ### Resources to help you take action:
 
