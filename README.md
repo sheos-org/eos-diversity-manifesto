@@ -36,15 +36,15 @@ www.diverseeos.com(https://www.diverseos.com)
 
 ### With thanks to:
 
-[https://www.diversityforum.org.uk/manifesto](https://www.diversityforum.org.uk/manifesto)
+[Diversity Forum Manefesto](https://www.diversityforum.org.uk/manifesto)
 
-[https://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-5-gender-equality.html](https://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-5-gender-equality.html)
+[UNDP sustainable-development-goals/goal-5-gender-equality.html](https://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-5-gender-equality.html)
 
 [https://www.futureoflondon.org.uk/2016/08/24/diversitypledgeldn-goes-live/](https://www.futureoflondon.org.uk/2016/08/24/diversitypledgeldn-goes-live/)
 
 [https://www.techtalentcharter.co.uk/](https://www.techtalentcharter.co.uk/)
 
-[https://images.forbes.com/forbesinsights/StudyPDFs/Innovation_Through_Diversity.pdf](https://images.forbes.com/forbesinsights/StudyPDFs/Innovation_Through_Diversity.pdf)
+[Forbes Innovation_Through_Diversity.pdf](https://images.forbes.com/forbesinsights/StudyPDFs/Innovation_Through_Diversity.pdf)
 
 
 ![alt text][logo]
