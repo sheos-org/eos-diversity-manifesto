@@ -1,4 +1,4 @@
-#EOS Diversity Manifesto
+# EOS Diversity Manifesto
 
 We are aware we are using the word diversity as shorthand for diversity, equality and inclusion.
 
@@ -18,9 +18,9 @@ Diversity is not an end in itself, but a powerful means to collectively improve 
 
 -----
 
-##Learn more about the shEOS Diversity Campaign and signing the EOS Diversity Manifesto: www.diverseeos.com
+## Learn more about the shEOS Diversity Campaign and signing the EOS Diversity Manifesto: www.diverseeos.com
 
-##Resources to help you take action:
+## Resources to help you take action:
 
 [https://github.com/clef/handbook](https://github.com/clef/handbook)
 
@@ -32,7 +32,7 @@ Diversity is not an end in itself, but a powerful means to collectively improve 
 
 [https://www.unitedway.org/about/diversity-and-inclusion#](https://www.unitedway.org/about/diversity-and-inclusion#)
 
-##With thanks to:
+## With thanks to:
 
 [https://www.diversityforum.org.uk/manifesto](https://www.diversityforum.org.uk/manifesto)
 
