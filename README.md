@@ -45,3 +45,8 @@ www.diverseeos.com(https://www.diverseos.com)
 [https://www.techtalentcharter.co.uk/](https://www.techtalentcharter.co.uk/)
 
 [https://images.forbes.com/forbesinsights/StudyPDFs/Innovation_Through_Diversity.pdf](https://images.forbes.com/forbesinsights/StudyPDFs/Innovation_Through_Diversity.pdf)
+
+
+![alt text][logo]
+
+[logo]: https://sheos.org/img/sheos-1024.png "shEOS Logo"
